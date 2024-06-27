@@ -10,6 +10,7 @@ vim.g.mapleader = " "
 
 vim.keymap.set("n", "<leader>ob", '<cmd>!open "%"<cr>', { desc = "Open file in Chrome" })
 
+vim.cmd("autocmd ColorScheme * highlight Normal ctermbg=NONE guibg=NONE")
 -- Keybinds to make split navigation easier.
 --  Use CTRL+<hjkl> to switch between windows
 --
