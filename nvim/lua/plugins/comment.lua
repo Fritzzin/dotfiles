@@ -1,3 +1,4 @@
+-- plugin add comments quickly
 return {
   "numToStr/Comment.nvim",
   opts = {
