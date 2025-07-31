@@ -1,5 +1,7 @@
-# dotfiles
-Backup for my configuration files (Mostly neovim at the moment)
+# Dotfiles 
+Backup files for my configurations (Mostly neovim at the moment)
 
-## NeoVim
-Based on the [Typecraft's](https://www.youtube.com/@typecraft_dev) videos about how to configure Neovim with plugins and modified to my own liking.
+## Neovim
+The Neovim config is mostly based on [Typecraft's](https://www.youtube.com/@typecraft_dev) series of videos about how to configure Neovim. 
+
+## Wezterm
