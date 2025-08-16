@@ -9,6 +9,7 @@ return {
 				null_ls.builtins.formatting.stylua,
 				-- js, html, css
 				null_ls.builtins.formatting.prettierd,
+				require("none-ls.formatting.eslint_d"),
 				require("none-ls.diagnostics.eslint_d"),
 			},
 		})
